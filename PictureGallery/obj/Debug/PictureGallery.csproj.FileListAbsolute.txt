@@ -1,0 +1,9 @@
+E:\src\vs.net2010\PictureGallery\PictureGallery\bin\PictureGallery.dll
+E:\src\vs.net2010\PictureGallery\PictureGallery\bin\PictureGallery.pdb
+E:\src\vs.net2010\PictureGallery\PictureGallery\obj\Debug\PictureGallery.dll
+E:\src\vs.net2010\PictureGallery\PictureGallery\obj\Debug\PictureGallery.pdb
+E:\src\vs2008\PictureGallery\PictureGallery\bin\PictureGallery.dll
+E:\src\vs2008\PictureGallery\PictureGallery\bin\PictureGallery.pdb
+E:\src\vs2008\PictureGallery\PictureGallery\obj\Debug\PictureGallery.dll
+E:\src\vs2008\PictureGallery\PictureGallery\obj\Debug\PictureGallery.pdb
+E:\src\vs2008\PictureGallery\PictureGallery\obj\Debug\PictureGallery.csprojResolveAssemblyReference.cache
